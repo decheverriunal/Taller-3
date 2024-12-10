@@ -2,7 +2,7 @@
 
 ### Presentado por:
 - **Ángel Rivera Amortegui**
-- **Daniel Echeverry Jimenez**
+- **Daniel Echeverri Jimenez**
 
 ---
 
